@@ -1,0 +1,5 @@
+#shared rc configs across zsh and bash
+
+#aliases
+##dotfile repos
+alias shared-dotfiles='/usr/bin/git --git-dir="$HOME/.shared-dotfiles" --work-tree="$HOME"'
