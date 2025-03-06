@@ -1,4 +1,5 @@
 #tmux
-tmux/plugins
+**/tmux/plugins/
+
 #macos
 .DS_Store
