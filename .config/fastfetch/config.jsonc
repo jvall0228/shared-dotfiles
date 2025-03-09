@@ -3,6 +3,7 @@
   "logo": {
    "source": "~/.images/logos/avatar_night.png",
    "width": 40,
+   "type": "kitty"
   },
   "modules": [
     "title",
